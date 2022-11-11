@@ -88,25 +88,3 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson.
 
 
-Token
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjkxMjQ4NDQsIm5iZiI6MTY2NzkxNTI0NCwiZW1haWwiOiJ2aW1ieXNidXp6QGdtYWlsLmNvbSJ9.F9lWszEe9kbZBn6drZIjqJWPYKwG2Y-tz4GvbJwRpX8
-
-aws id
-ASIAXCFQZFPPNTRFPUPU
-
-secret acess key
-+cX+CH4vnK3HHfatdGvVCbFb1bQN6y21YktZ662s
-
-
-FwoGZXIvYXdzEJb//////////wEaDHSOJs6cNnnpABSZLCK8ARf4lUKSM9OhRrFJwiww3VbmOrHfiaE+ZwZTaToLvU72rRhm8yP1BVYEaCtFKiyemViyIJkusYyJ4ko/wEkMyUvwzy3ItoNVzsXwosm7AJ8n7pVujHWointd3W8cNpjuJqrZ30vnNAIUXZVkXlDK/rOs4T0Td9cL0LCAd8TvlHfz4v4Cr7jJQ/yubL9QHSYticAN8EOP9WCZjwDQXyenbQZbUvUFrl1vTQc+aQDJb7AyPNJoYPG2zML/kts0KIq0tZsGMi3b1SVt4vAJXl5OFpdfiVzy1JtV5OLiOG9yJk0gELBNmlF3bIqA9SqlemH0Zu0=
-
-519002666132
-
-
-AKIAXCFQZFPPJBBKXCEN
-
-CvbXXel8k36u9lzri0nCJbt8P8klt4pcKjWI90hN
-
-github token
-
-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
